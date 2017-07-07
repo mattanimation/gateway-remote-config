@@ -1,0 +1,12 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE26A53C",
+    "servers": [
+    ],
+     "ref_latitude": 47.329091,
+     "ref_longitude": 8.655622,
+     "ref_altitude": 0,
+     "contact_email": "mattanimation@gmail.com",
+     "description": "the Austin chaos gate"
+  }
+}
